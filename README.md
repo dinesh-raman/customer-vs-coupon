@@ -1,6 +1,6 @@
 # Will the customer accept the coupon 
-##### Project Juptier Notebook: www.xyz.com
-##### Project Data Source: www.xyz.com
+##### Project Juptier Notebook: https://github.com/dinesh-raman/customer-vs-coupon/blob/main/prompt.ipynb
+##### Project Data Source: 
 
 ## What is the Problem
 The goal of this project is to s to distinguish between customers who accepted a driving coupon versus those who did not. The project uses data  visualizations and probability distributions to uncover the findings.
